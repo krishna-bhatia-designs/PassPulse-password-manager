@@ -86,3 +86,13 @@ To run this project locally, follow these steps:
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
 
+## Screenshots:
+
+
+1.  <img width="1365" height="627" alt="passpulse4" src="https://github.com/user-attachments/assets/e57f622b-43a9-48a5-97ed-1b882a4b56f1" />
+2.  <img width="1365" height="639" alt="passpulse3" src="https://github.com/user-attachments/assets/6c2edd79-cbd0-4a93-92be-a0852fa36f45" />
+3.  <img width="1361" height="630" alt="passpulse2" src="https://github.com/user-attachments/assets/183506ff-514b-4c8d-a4d1-a599cab44ec2" />
+4.  <img width="1362" height="623" alt="passpulse1" src="https://github.com/user-attachments/assets/fc9195d9-e03c-4221-9c20-e53c17ab2816" />
+
+---
+
